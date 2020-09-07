@@ -1,0 +1,103 @@
+{
+    "Header": {
+
+        "title": "Let's Connect",
+        "paragraph": "We develop softwares to solve your daily life problems."
+
+    },
+    "About": {
+        "paragraph": "Araxis Soft is a full service IT solution provider who values our relationships with managers, customers, vendors, business partners, and co-workers. Strong, positive relationships that are open and honest are a big part of what differentiates us. We are a dedicated team of software engineers graduated from a top notch institue having extensive experience in professional software development. Using our skillset, we are ready to develop softwares that solve your problems.",
+        "Why": [
+            "Dedicated teams",
+            "Professional",
+            "Communicative",
+            "Focus on innovation"            
+        ],
+        "Why2": [
+            "100% client satisfaction",
+            "After sales support",
+            "True partners",
+            "Respect client needs and objectives"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-terminal",
+            "name": "Custom Software Development",
+            "text": "Software as per your needs."
+        },
+        {
+            "icon": "fa fa-mobile",
+            "name": "Mobile Application Development",
+            "text": "Beautiful Android & iOS applications."
+        },
+        {
+            "icon": "fa fa-spinner",
+            "name": "Web Application Development",
+            "text": "Responsive web application for your business."
+        },
+        {
+            "icon": "fa fa-money-bill",
+            "name": "Ecommerce Software Development",
+            "text": "SEO-friendly online marketplaces."
+        },
+        {
+            "icon": "fa fa-robot",
+            "name": "Robotic Process Automation",
+            "text": "Automate your tasks so you don't have to do them."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "ERP Systems",
+            "text": "Integrated applications to manage the business."
+        }
+    ],
+
+    "Team": [{
+            "img": "img/team/ars.jpg",
+            "name": "Abdul Rehman",
+            "job": "Software Engineer"
+        },
+        {
+            "img": "img/team/ahmad.jpg",
+            "name": "Ahmad Shafique",
+            "job": "Software Engineer"
+        }, {
+            "img": "img/team/arslan.jpg",
+            "name": "Arsalan Younas",
+            "job": "Software Engineer"
+        }, {
+            "img": "img/team/ahmed.jpg",
+            "name": "Ahmed Hasan",
+            "job": "Software Engineer"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+92 3xx xxx xxxx",
+        "email": "sales@araxissoft.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
