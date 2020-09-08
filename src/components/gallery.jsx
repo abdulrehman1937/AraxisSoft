@@ -8,8 +8,7 @@ export class Gallery extends Component {
           <div className="section-title">
             <h2>Gallery</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
+              Have a look at some of the project we have done.
             </p>
           </div>
           <div className="row">
@@ -19,15 +18,15 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/01-large.jpg"
+                      href="img/portfolio/nuces-circle.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>NUCES circle</h4>
                       </div>
                       <img
-                        src="img/portfolio/01-small.jpg"
+                        src="img/portfolio/nuces-circle.jpg"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
@@ -40,15 +39,15 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/02-large.jpg"
+                      href="img/portfolio/dar-ul-tohfa.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Dar Ul Tohfa</h4>
                       </div>
                       <img
-                        src="img/portfolio/02-small.jpg"
+                        src="img/portfolio/dar-ul-tohfa.jpg"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
@@ -140,7 +139,7 @@ export class Gallery extends Component {
                   </div>
                 </div>
               </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
+              {/* <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
                     {" "}
@@ -202,7 +201,7 @@ export class Gallery extends Component {
                     </a>{" "}
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

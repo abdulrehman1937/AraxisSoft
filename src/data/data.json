@@ -1,132 +1,103 @@
 {
-  "Header": {
-    "title": "Araxis Soft",
-    "paragraph": "We build softwares that enhcance your business"
-  },
-  "About": {
-    "paragraph": "Araxis Soft is a software house providing the best in global software and applications. We have created hundreds of solutions and helped businesses expand at a rapid pace. Our team of experienced developers turn every idea into reality. We have successfully developed and delivered web and mobile applications. Our team is actively researching in AR & CV and has built applications based upon state of the art computer vision techniques.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+    "Header": {
+
+        "title": "Let's Connect",
+        "paragraph": "We develop softwares to solve your daily life problems."
+
+    },
+    "About": {
+        "paragraph": "Araxis Soft is a full service IT solution provider who values our relationships with managers, customers, vendors, business partners, and co-workers. Strong, positive relationships that are open and honest are a big part of what differentiates us. We are a dedicated team of software engineers graduated from a top notch institue having extensive experience in professional software development. Using our skillset, we are ready to develop softwares that solve your problems.",
+        "Why": [
+            "Dedicated teams",
+            "Professional",
+            "Communicative",
+            "Focus on innovation"            
+        ],
+        "Why2": [
+            "100% client satisfaction",
+            "After sales support",
+            "True partners",
+            "Respect client needs and objectives"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-terminal",
+            "name": "Custom Software Development",
+            "text": "Software as per your needs."
+        },
+        {
+            "icon": "fa fa-mobile",
+            "name": "Mobile Application Development",
+            "text": "Beautiful Android & iOS applications."
+        },
+        {
+            "icon": "fa fa-spinner",
+            "name": "Web Application Development",
+            "text": "Responsive web application for your business."
+        },
+        {
+            "icon": "fa fa-money-bill",
+            "name": "Ecommerce Software Development",
+            "text": "SEO-friendly online marketplaces."
+        },
+        {
+            "icon": "fa fa-robot",
+            "name": "Robotic Process Automation",
+            "text": "Automate your tasks so you don't have to do them."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "ERP Systems",
+            "text": "Integrated applications to manage the business."
+        }
     ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+
+    "Team": [{
+            "img": "img/team/ars.jpg",
+            "name": "Abdul Rehman",
+            "job": "Software Engineer"
+        },
+        {
+            "img": "img/team/ahmad.jpg",
+            "name": "Ahmad Shafique",
+            "job": "Software Engineer"
+        }, {
+            "img": "img/team/arslan.jpg",
+            "name": "Arsalan Younas",
+            "job": "Software Engineer"
+        }, {
+            "img": "img/team/ahmed.jpg",
+            "name": "Ahmed Hasan",
+            "job": "Software Engineer"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+92 3xx xxx xxxx",
+        "email": "sales@araxissoft.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
     ]
-  },
-  "Services": [
-    {
-      "icon": "fa fa-wordpress",
-      "name": "ML",
-      "text": "We have built applications of automating office tasks using machine learning techniques. We have developed applications like Snapchat and Faceapp."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "Abdul Rehman",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Arsalan Younus",
-      "job": "Director"
-    }
-    {
-      "img": "img/team/02.jpg",
-      "name": "Ahmad  Shafique",
-      "job": "Director"
-    }
-  ],
-  "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
-  },
-  "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    }
-  ]
 }

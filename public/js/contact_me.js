@@ -17,12 +17,21 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
+                url: "https://api.mailgun.net/v3/araxissoft.com/messages",
                 type: "POST",
+                // headers: {
+                //     "Authorization": "Basic " + btoa("api : d42deb54d861089b2a0e055c331d5c3-87c34c41-6a9fee4c")
+                //   },
+                username: "api",
+                password: "d42deb54d861089b2a0e055c331d5c3-87c34c41-6a9fee4c",
                 data: {
-                    name: name,
-                    email: email,
-                    message: message
+                    "from": "mail-server <mailserver@araxissoft.com>",
+                    "to": "wlsoyb3162@faxapdf.com",
+                    "subject": "new client",
+                    "text": "test email"
+                    // name: name,
+                    // email: email,
+                    // message: message
                 },
                 cache: false,
                 success: function() {
