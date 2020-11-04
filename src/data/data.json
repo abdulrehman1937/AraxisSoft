@@ -58,16 +58,8 @@
             "job": "Software Engineer"
         },
         {
-            "img": "img/team/ahmad.jpg",
-            "name": "Ahmad Shafique",
-            "job": "Software Engineer"
-        }, {
             "img": "img/team/arslan.jpg",
             "name": "Arsalan Younas",
-            "job": "Software Engineer"
-        }, {
-            "img": "img/team/ahmed.jpg",
-            "name": "Ahmed Hasan",
             "job": "Software Engineer"
         }
     ],
